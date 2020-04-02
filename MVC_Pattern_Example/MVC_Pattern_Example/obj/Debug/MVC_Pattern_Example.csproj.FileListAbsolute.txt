@@ -1,0 +1,9 @@
+C:\calismalar\KaynakKod\ExampleApps\MVC_Pattern_Example\MVC_Pattern_Example\MVC_Pattern_Example\bin\Debug\MVC_Pattern_Example.exe.config
+C:\calismalar\KaynakKod\ExampleApps\MVC_Pattern_Example\MVC_Pattern_Example\MVC_Pattern_Example\bin\Debug\MVC_Pattern_Example.exe
+C:\calismalar\KaynakKod\ExampleApps\MVC_Pattern_Example\MVC_Pattern_Example\MVC_Pattern_Example\bin\Debug\MVC_Pattern_Example.pdb
+C:\calismalar\KaynakKod\ExampleApps\MVC_Pattern_Example\MVC_Pattern_Example\MVC_Pattern_Example\obj\Debug\MVC_Pattern_Example.csprojResolveAssemblyReference.cache
+C:\calismalar\KaynakKod\ExampleApps\MVC_Pattern_Example\MVC_Pattern_Example\MVC_Pattern_Example\obj\Debug\MVC_Pattern_Example.Form1.resources
+C:\calismalar\KaynakKod\ExampleApps\MVC_Pattern_Example\MVC_Pattern_Example\MVC_Pattern_Example\obj\Debug\MVC_Pattern_Example.Properties.Resources.resources
+C:\calismalar\KaynakKod\ExampleApps\MVC_Pattern_Example\MVC_Pattern_Example\MVC_Pattern_Example\obj\Debug\MVC_Pattern_Example.csproj.GenerateResource.Cache
+C:\calismalar\KaynakKod\ExampleApps\MVC_Pattern_Example\MVC_Pattern_Example\MVC_Pattern_Example\obj\Debug\MVC_Pattern_Example.exe
+C:\calismalar\KaynakKod\ExampleApps\MVC_Pattern_Example\MVC_Pattern_Example\MVC_Pattern_Example\obj\Debug\MVC_Pattern_Example.pdb
